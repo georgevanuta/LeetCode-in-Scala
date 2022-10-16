@@ -20,8 +20,7 @@ object Solution {
 			if (word.isEmpty)
 				true
 			else if (word.head == board(x)(y)) {
-				if (word.length == 1)
-					true
+				if (word.length == 1) true
 				else {
 					val goUp: Boolean = {
 						if (x == 0) false
