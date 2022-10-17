@@ -1,5 +1,6 @@
 package SearchRotated
 
+// https://leetcode.com/problems/search-in-rotated-sorted-array/
 object Solution {
 	def search(nums: Array[Int], target: Int): Int = {
 		val len: Int = nums.length

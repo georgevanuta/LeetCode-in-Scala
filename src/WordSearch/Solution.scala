@@ -9,18 +9,20 @@ object Solution {
 			List.fill(board.length)(List.fill(board(0).length)(false).toArray).toArray
 		}
 
-		def existAux(word: String,
-					 vis: Array[Array[Boolean]],
-					 x: Int,
-					 y: Int): Boolean =
+		def existAux(
+					word: String,
+					vis: Array[Array[Boolean]],
+					x: Int,
+					y: Int
+					): Boolean =
 		{
 			// toggle vis matrix
 			def updateVis(): Array[Array[Boolean]] = vis.updated(x, vis(x).updated(y, true))
 
-			if (word.isEmpty)
-				true
+			if (word.isEmpty) true
 			else if (word.head == board(x)(y)) {
-				if (word.length == 1) true
+				if (word.length == 1)
+					true
 				else {
 					val goUp: Boolean = {
 						if (x == 0) false

@@ -24,8 +24,6 @@ object Solution {
 		addAux(l1, l2)
 	}
 
-	// https://leetcode.com/problems/merge-two-sorted-lists/
-
 	def mergeTwoLists(list1: ListNode, list2: ListNode): ListNode = {
 		(list1, list2) match {
 			case (_, null) => list1
@@ -48,7 +46,6 @@ object Main {
 		}
 	}
 	def main(args: Array[String]) = {
-		println(ListNode())
 	}
 }
 
