@@ -1,5 +1,6 @@
 package Anagrams
 
+// TODO: too slow
 // https://leetcode.com/problems/group-anagrams/
 object Solution {
 	def groupAnagrams(strs: Array[String]): List[List[String]] = {
