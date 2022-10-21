@@ -47,7 +47,7 @@ object Main {
 						TreeNode(5))))
 		assert(Solution.sumEvenGrandparent(tr1) == 18)
 
-		val tr2: TreeNode = 
+		val tr2: TreeNode =
 			TreeNode(1)
 		assert(Solution.sumEvenGrandparent(tr2) == 0)
 	}
