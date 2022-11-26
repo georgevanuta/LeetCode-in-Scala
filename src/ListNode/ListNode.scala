@@ -6,8 +6,8 @@ case class ListNode(_x: Int = 0, _next: ListNode = null) {
 	var next: ListNode = _next
 }
 
+// https://leetcode.com/problems/add-two-numbers/
 object Solution {
-	// https://leetcode.com/problems/add-two-numbers/
 	def addTwoNumbers(l1: ListNode, l2: ListNode): ListNode = {
 		def addAux(l1: ListNode, l2: ListNode, carry: Int = 0): ListNode = {
 			(l1, l2) match {
