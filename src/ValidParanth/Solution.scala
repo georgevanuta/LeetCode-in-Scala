@@ -1,9 +1,8 @@
-// https://leetcode.com/problems/valid-parentheses/
-
 package ValidParanth
 
 import scala.collection.mutable.Stack
 
+// https://leetcode.com/problems/valid-parentheses/
 object Solution {
 	def isValid(s: String): Boolean = {
 		def matchesParan(open: Char, closed: Char) = {
