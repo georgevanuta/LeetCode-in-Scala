@@ -1,7 +1,6 @@
-// https://leetcode.com/problems/search-a-2d-matrix/
-
 package SearchMatrix
 
+// https://leetcode.com/problems/search-a-2d-matrix/
 object Solution {
 	def searchMatrix(matrix: Array[Array[Int]], target: Int, x: Int = 0, y: Int = 0): Boolean = {
 		if (matrix(x)(y) == target)
