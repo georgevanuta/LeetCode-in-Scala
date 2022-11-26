@@ -1,7 +1,6 @@
-// https://leetcode.com/problems/word-search/
-
 package WordSearch
 
+// https://leetcode.com/problems/word-search/
 object Solution {
 	def exist(board: Array[Array[Char]], word: String): Boolean = {
 		// new vis matrix
