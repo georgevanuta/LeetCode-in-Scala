@@ -1,9 +1,8 @@
-// https://leetcode.com/problems/simplify-path/
-
 package SimplifyPath
 
 import scala.collection.mutable.Stack
 
+// https://leetcode.com/problems/simplify-path/
 object Solution {
 	def simplifyPath(path: String): Any = {
 		val dirs: List[String] =
