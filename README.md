@@ -29,4 +29,6 @@ https://leetcode.com/problems/valid-parentheses/ \
 https://leetcode.com/problems/word-search/ \
 https://leetcode.com/problems/add-two-numbers-ii/ \
 https://leetcode.com/problems/trim-a-binary-search-tree/ \
-https://leetcode.com/problems/unique-email-addresses/
+https://leetcode.com/problems/unique-email-addresses/ \
+https://leetcode.com/problems/rectangle-overlap/ \
+https://leetcode.com/problems/partition-labels/
