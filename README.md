@@ -33,4 +33,6 @@ https://leetcode.com/problems/unique-email-addresses/ \
 https://leetcode.com/problems/rectangle-overlap/ \
 https://leetcode.com/problems/partition-labels/ \
 https://leetcode.com/problems/rotated-digits/ \
-https://leetcode.com/problems/maximize-distance-to-closest-person/
+https://leetcode.com/problems/maximize-distance-to-closest-person/ \
+https://leetcode.com/problems/hamming-distance/
+https://leetcode.com/problems/nim-game/
