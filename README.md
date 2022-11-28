@@ -35,4 +35,6 @@ https://leetcode.com/problems/partition-labels/ \
 https://leetcode.com/problems/rotated-digits/ \
 https://leetcode.com/problems/maximize-distance-to-closest-person/ \
 https://leetcode.com/problems/hamming-distance/
-https://leetcode.com/problems/nim-game/
+https://leetcode.com/problems/nim-game/ \
+https://leetcode.com/problems/roman-to-integer/ \
+https://leetcode.com/problems/add-two-numbers/
