@@ -1,8 +1,6 @@
 # LeetCode-in-Scala
 My solutions for LeetCode exercises writeen in Scala.
 
-Links to directories:
-
 ## Easy
 [13. Roman to Integer](src/RomanToInt/Solution.scala) \
 [20. Valid Parentheses](src/ValidParanth/Solution.scala) \
