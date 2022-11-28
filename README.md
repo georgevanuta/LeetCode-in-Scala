@@ -2,6 +2,7 @@
 My solutions for LeetCode exercises writeen in Scala.
 
 ## Easy
+[1. Two Sum](src/TwoSum/Solution.scala) \
 [13. Roman to Integer](src/RomanToInt/Solution.scala) \
 [20. Valid Parentheses](src/ValidParanth/Solution.scala) \
 [268. Missing Number](src/MissingNumber/Solution.scala) \
@@ -35,6 +36,7 @@ My solutions for LeetCode exercises writeen in Scala.
 [788. Rotated Digits](src/RotateDig/Solution.scala) \
 [849. Maximize Distance to Closest Person](src/MaxSeatDist/Solution.scala) \
 [937. Reorder Data in Log Files](src/Logs/Solution.scala) \
+[957. Prison Cells After N Days](src/Prison/Solution.scala) \
 [1002. Find Common Characters](src/CommonLetters/Solution.scala) \
 [1155. Number of Dice Rolls With Target Sum](src/RollsToTarget/Solution.scala) \
 [1315. Sum of Nodes with Even-Valued Grandparent](src/GrandfatherSum/Solution.scala)
