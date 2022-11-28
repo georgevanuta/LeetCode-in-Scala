@@ -3,8 +3,12 @@ My solutions for LeetCode exercises writeen in Scala.
 
 Links to directories:
 
-[49. Group Anagrams](src/Anagrams)
-https://leetcode.com/problems/group-anagrams/ \
+## Easy
+[1221. Split a String in Balanced Strings](src/BalancedStrings/Solution)
+
+
+## Medium
+[49. Group Anagrams](src/Anagrams/Solution)
 https://leetcode.com/problems/split-a-string-in-balanced-strings/ \
 https://leetcode.com/problems/find-common-characters \
 https://leetcode.com/problems/custom-sort-string/ \
