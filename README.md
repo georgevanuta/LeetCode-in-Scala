@@ -4,7 +4,7 @@ My solutions for LeetCode exercises writeen in Scala.
 Links to directories:
 
 ## Easy
-[1221. Split a String in Balanced Strings](src/BalancedStrings/Solution)
+[1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala)
 
 
 ## Medium
