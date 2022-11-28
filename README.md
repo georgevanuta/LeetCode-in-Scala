@@ -1,8 +1,9 @@
 # LeetCode-in-Scala
 My solutions for LeetCode exercises writeen in Scala.
 
-Links to exercises:
+Links to directories:
 
+[49. Group Anagrams](src/Anagrams)
 https://leetcode.com/problems/group-anagrams/ \
 https://leetcode.com/problems/split-a-string-in-balanced-strings/ \
 https://leetcode.com/problems/find-common-characters \
