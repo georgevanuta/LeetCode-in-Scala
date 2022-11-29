@@ -15,6 +15,7 @@ My solutions for LeetCode exercises writeen in Scala.
 [836. Rectangle Overlap](src/RectangleOverlap/Solution.scala) \
 [872. Leaf-Similar Trees](src/LeafSimilar/Solution.scala) \
 [929. Unique Email Addresses](src/UniqueEmails/Solution.scala) \
+[953. Verifying an Alien Dictionary](src/AlienLanguage/Solution.scala) \
 [977. Squares of a Sorted Array](src/SquareOrder/Solution.scala) \
 [1021. Remove Outermost Parentheses](src/PrimitiveParenth/Solution.scala) \
 [1022. Sum of Root To Leaf Binary Numbers](src/SumBT/Solution.scala) \
@@ -31,9 +32,11 @@ My solutions for LeetCode exercises writeen in Scala.
 [74. Search a 2D Matrix](src/SearchMatrix/Solution.scala) \
 [79. Word Search](src/WordSearch/Solution.scala) \
 [162. Find Peak Element](src/Peak/Solution.scala) \
+[199. Binary Tree Right Side View](src/RightSideBT/Solution.scala) \
 [260. Single Number III](src/SingleNumber/Solution.scala) \
 [287. Find the Duplicate Number](src/DuplicateNumber/Solution.scala) \
 [445. Add Two Numbers II](src/SumLinkedLists/Solution.scala) \
+[567. Permutation in String](src/CheckInclusion/Solution.scala) \
 [669. Trim a Binary Search Tree](src/TrimBST/Solution.scala) \
 [763. Partition Labels](src/StringPartition/Solution.scala) \
 [788. Rotated Digits](src/RotateDig/Solution.scala) \
