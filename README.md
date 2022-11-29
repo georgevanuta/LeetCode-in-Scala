@@ -19,6 +19,7 @@ My solutions for LeetCode exercises writeen in Scala.
 [977. Squares of a Sorted Array](src/SquareOrder/Solution.scala) \
 [1021. Remove Outermost Parentheses](src/PrimitiveParenth/Solution.scala) \
 [1022. Sum of Root To Leaf Binary Numbers](src/SumBT/Solution.scala) \
+[1122. Relative Sort Array](src/RelativeSort/Solution.scala) \
 [1160. Find Words That Can Be Formed by Characters](src/GoodString/Solution.scala) \
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala)
 
