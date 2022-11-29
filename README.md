@@ -10,6 +10,7 @@ My solutions for LeetCode exercises writeen in Scala.
 [459. Repeated Substring Pattern](src/RepeatedSubstring/Solution.scala) \
 [461. Hamming Distance](src/HammingBinaryDistance/Solution.scala) \
 [791. Custom Sort String](src/CustomOrder/Solution.scala) \
+[819. Most Common Word](src/BannedWords/Solution.scala) \
 [832. Flipping an Image](src/FlipInvert/Solution.scala) \
 [836. Rectangle Overlap](src/RectangleOverlap/Solution.scala) \
 [872. Leaf-Similar Trees](src/LeafSimilar/Solution.scala) \
