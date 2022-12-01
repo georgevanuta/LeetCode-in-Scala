@@ -1,5 +1,5 @@
 # LeetCode-in-Scala
-My solutions for LeetCode exercises writeen in Scala.
+My solutions for LeetCode exercises written in Scala.
 
 ## Easy
 [1. Two Sum](src/TwoSum/Solution.scala) \
