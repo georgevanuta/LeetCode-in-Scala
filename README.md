@@ -19,6 +19,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [94. Binary Tree Inorder Traversal](src/InorderTraversal/Solution.scala) \
 [101. Symmetric Tree](src/IsSymmetric/Solution.scala) \
 [104. Maximum Depth of Binary Tree](src/MaxDepth/Solution.scala) \
+[108. Convert Sorted Array to Binary Search Tree](src/SortedArrayToBST/Solution.scala) \
 [110. Balanced Binary Tree](src/IsBalanced/Solution.scala) \
 [111. Minimum Depth of Binary Tree](src/MinDepth/Solution.scala) \
 [125. Valid Palindrome](src/IsPalindromeString/Solution.scala) \
@@ -54,6 +55,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [897. Increasing Order Search Tree](src/IncreasingBST/Solution.scala) \
 [941. Valid Mountain Array](src/MountainArray/Solution.scala) \
 [953. Verifying an Alien Dictionary](src/AlienLanguage/Solution.scala) \
+[977. Squares of a Sorted Array](src/SquareOrder/Solution.scala) \
 [993. Cousins in Binary Tree](src/IsCousins/Solution.scala) \
 [1002. Find Common Characters](src/CommonLetters/Solution.scala) \
 [1122. Relative Sort Array](src/RelativeSort/Solution.scala) \
@@ -74,8 +76,10 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [33. Search in Rotated Sorted Array](src/SearchRotated/Solution.scala) \
 [34. Find First and Last Position of Element in Sorted Array](src/FirstAndLast/Solution.scala) \
 [49. Group Anagrams](src/Anagrams/Solution.scala) \
+[59. Spiral Matrix II](src/Spiral/Solution.scala) \
 [71. Simplify Path](src/SimplifyPath/Solution.scala) \
 [74. Search a 2D Matrix](src/SearchMatrix/Solution.scala) \
+[75. Sort Colors](src/SortColors/Solution.scala) \
 [162. Find Peak Element](src/Peak/Solution.scala) \
 [199. Binary Tree Right Side View](src/RightSideBT/Solution.scala) \
 [229. Majority Element II](src/Majority/Solution.scala) \
@@ -90,6 +94,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [567. Permutation in String](src/CheckInclusion//Solution.scala) \
 [590. N-ary Tree Postorder Traversal](src/Postorder/Solution.scala) \
 [690. Employee Importance](src/EmployeeImportance/Solution.scala) \
+[763. Partition Labels](src/StringPartition/Solution.scala) \
 [788. Rotated Digits](src/RotateDig/Solution.scala) \
 [791. Custom Sort String](src/CustomOrder/Solution.scala) \
 [796. Rotate String](src/RotateShift/Solution.scala) \
