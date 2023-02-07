@@ -5,17 +5,22 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 
 ## Easy
 
+[9. Palindrome Number](src/IsPalindrome/Solution.scala) \
 [35. Search Insert Position](src/BinarySearch/Solution.scala) \
+[58. Length of Last Word](src/LengthOfLastWord/Solution.scala) \
 [66. Plus One](src/AddOne/Solution.scala) \
 [67. Add Binary](/src/AddBinary/Solution.scala) \
 [83. Remove Duplicates from Sorted List](src/DeleteDuplicates/Solution.scala) \
 [94. Binary Tree Inorder Traversal](src/InorderTraversal/Solution.scala) \
+[101. Symmetric Tree](src/IsSymmetric/Solution.scala) \
 [110. Balanced Binary Tree](src/IsBalanced/Solution.scala) \
+[125. Valid Palindrome](src/IsPalindromeString/Solution.scala) \
 [141. Linked List Cycle](src/HasCycle/Solution.scala) \
 [160. Intersection of Two Linked Lists](src/GetIntersectionNode/Solution.scala) \
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
 [217. Contains Duplicate](src/ContainsDuplicates/Solution.scala) \
 [226. Invert Binary Tree](src/InvertBT/Solution.scala) \
+[404. Sum of Left Leaves](src/LeftSumBT/Solution.scala) \
 [448. Find All Numbers Disappeared in an Array](src/DissapNums/Solution.scala) \
 [461. Hamming Distance](src/HammingBinaryDistance/Solution.scala) \
 [504. Base 7](src/ConvertToBase7/Solution.scala) \
@@ -24,8 +29,10 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [575. Distribute Candies](src/Candies/Solution.scala) \
 [819. Most Common Word](src/BannedWords/Solution.scala) \
 [832. Flipping an Image](src/FlipInvert/Solution.scala) \
+[872. Leaf-Similar Trees](src/LeafSimilar/Solution.scala) \
 [897. Increasing Order Search Tree](src/IncreasingBST/Solution.scala) \
 [953. Verifying an Alien Dictionary](src/AlienLanguage/Solution.scala) \
+[993. Cousins in Binary Tree](src/IsCousins/Solution.scala) \
 [1002. Find Common Characters](src/CommonLetters/Solution.scala) \
 [1160. Find Words That Can Be Formed by Characters](src/GoodString/Solution.scala) \
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala) \
