@@ -8,6 +8,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [9. Palindrome Number](src/IsPalindrome/Solution.scala) \
 [14. Longest Common Prefix](src/LongestCommonPrefix/Solution.scala) \
 [26. Remove Duplicates from Sorted Array](src/RemoveDuplicates/Solution.scala) \
+[27. Remove Element](src/RemoveElement/Solution.scala) \
 [35. Search Insert Position](src/BinarySearch/Solution.scala) \
 [58. Length of Last Word](src/LengthOfLastWord/Solution.scala) \
 [66. Plus One](src/AddOne/Solution.scala) \
@@ -32,8 +33,10 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [232. Implement Queue using Stacks](src/MyQueue/MyQueue.scala) \
 [268. Missing Number](src/MissingNumber/Solution.scala) \
 [292. Nim Game](src/NimGame/Solution.scala) \
+[344. Reverse String](src/ReverseString/Solution.scala) \
 [404. Sum of Left Leaves](src/LeftSumBT/Solution.scala) \
 [448. Find All Numbers Disappeared in an Array](src/DissapNums/Solution.scala) \
+[459. Repeated Substring Pattern](src/RepeatedSubstring/Solution.scala) \
 [461. Hamming Distance](src/HammingBinaryDistance/Solution.scala) \
 [504. Base 7](src/ConvertToBase7/Solution.scala) \
 [509. Fibonacci Number](src/Fibo/Solution.scala) \
