@@ -18,6 +18,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [125. Valid Palindrome](src/IsPalindromeString/Solution.scala) \
 [141. Linked List Cycle](src/HasCycle/Solution.scala) \
 [160. Intersection of Two Linked Lists](src/GetIntersectionNode/Solution.scala) \
+[169. Majority Element](src/MajorityElement/Solution.scala) \
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
 [217. Contains Duplicate](src/ContainsDuplicates/Solution.scala) \
 [226. Invert Binary Tree](src/InvertBT/Solution.scala) \
@@ -48,6 +49,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [22. Generate Parentheses](src/GenerateParenthesis/Solution.scala) \
 [34. Find First and Last Position of Element in Sorted Array](src/FirstAndLast/Solution.scala) \
 [49. Group Anagrams](src/Anagrams/Solution.scala) \
+[229. Majority Element II](src/Majority/Solution.scala) \
 [237. Delete Node in a Linked List](src/DeleteNode/Solution.scala) \
 [287. Find the Duplicate Number](src/DuplicateNumber/Solution.scala) \
 [382. Linked List Random Node](src/GetRandom/Solution.scala) \
