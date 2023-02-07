@@ -1,5 +1,7 @@
 package Garden
 
+
+// https://leetcode.com/problems/flower-planting-with-no-adjacent/
 object Solution {
 	private final val NO_FLOWER: Int = -1
 	private final val ALL_FLOWERS: Set[Int] = Set(1, 2, 3, 4)
