@@ -12,6 +12,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [20. Valid Parentheses](src/ValidParanth/Solution.scala) \
 [26. Remove Duplicates from Sorted Array](src/RemoveDuplicates/Solution.scala) \
 [27. Remove Element](src/RemoveElement/Solution.scala) \
+[28. Find the Index of the First Occurrence in a String](src/NeedleHaytstack/Solution.scala) \
 [35. Search Insert Position](src/BinarySearch/Solution.scala) \
 [58. Length of Last Word](src/LengthOfLastWord/Solution.scala) \
 [66. Plus One](src/AddOne/Solution.scala) \
