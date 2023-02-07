@@ -5,9 +5,11 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 
 ## Easy
 
+[1. Two Sum](src/TwoSum/Solution.scala) \
 [9. Palindrome Number](src/IsPalindrome/Solution.scala) \
 [13. Roman to Integer](src/RomanToInt/Solution.scala) \
 [14. Longest Common Prefix](src/LongestCommonPrefix/Solution.scala) \
+[20. Valid Parentheses](src/ValidParanth/Solution.scala) \
 [26. Remove Duplicates from Sorted Array](src/RemoveDuplicates/Solution.scala) \
 [27. Remove Element](src/RemoveElement/Solution.scala) \
 [35. Search Insert Position](src/BinarySearch/Solution.scala) \
@@ -47,12 +49,16 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [551. Student Attendance Record I](src/CheckRecord/Solution.scala) \
 [575. Distribute Candies](src/Candies/Solution.scala) \
 [617. Merge Two Binary Trees](src/MergeTrees/Solution.scala) \
+[653. Two Sum IV - Input is a BST](src/TwoSumBT/Solution.scala) \
+[709. To Lower Case](/src/ToLowerCase/Solution.scala) \
 [724. Find Pivot Index](src/PivotIndex/Solution.scala) \
 [819. Most Common Word](src/BannedWords/Solution.scala) \
+[824. Goat Latin](src/ToGoatLatin/Solution.scala) \
 [832. Flipping an Image](src/FlipInvert/Solution.scala) \
 [836. Rectangle Overlap](src/RectangleOverlap/Solution.scala) \
 [872. Leaf-Similar Trees](src/LeafSimilar/Solution.scala) \
 [897. Increasing Order Search Tree](src/IncreasingBST/Solution.scala) \
+[929. Unique Email Addresses](src/UniqueEmails/Solution.scala) \
 [941. Valid Mountain Array](src/MountainArray/Solution.scala) \
 [953. Verifying an Alien Dictionary](src/AlienLanguage/Solution.scala) \
 [977. Squares of a Sorted Array](src/SquareOrder/Solution.scala) \
@@ -64,6 +70,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala) \
 [1266. Minimum Time Visiting All Points](src/ShortestPoint/Solution.scala) \
 [1528. Shuffle String](src/ShuffleString/Solution.scala) \
+[1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
 [2490. Circular Sentence](src/IsCircularSentence/Solution.scala) \
 [2496. Maximum Value of a String in an Array](src/MaximumValue/Solution.scala) \
 [2500. Delete Greatest Value in Each Row](src/DeleteGreatestValue/Solution.scala) \
@@ -81,6 +88,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [71. Simplify Path](src/SimplifyPath/Solution.scala) \
 [74. Search a 2D Matrix](src/SearchMatrix/Solution.scala) \
 [75. Sort Colors](src/SortColors/Solution.scala) \
+[79. Word Search](src/WordSearch/Solution.scala) \
 [162. Find Peak Element](src/Peak/Solution.scala) \
 [199. Binary Tree Right Side View](src/RightSideBT/Solution.scala) \
 [229. Majority Element II](src/Majority/Solution.scala) \
@@ -95,6 +103,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [515. Find Largest Value in Each Tree Row](src/MaxEachLevelBT/Solution.scala) \
 [567. Permutation in String](src/CheckInclusion//Solution.scala) \
 [590. N-ary Tree Postorder Traversal](src/Postorder/Solution.scala) \
+[669. Trim a Binary Search Tree](src/TrimBST/Solution.scala) \
 [690. Employee Importance](src/EmployeeImportance/Solution.scala) \
 [763. Partition Labels](src/StringPartition/Solution.scala) \
 [788. Rotated Digits](src/RotateDig/Solution.scala) \
