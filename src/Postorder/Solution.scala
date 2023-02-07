@@ -7,7 +7,7 @@ class Node(var _value: Int) {
 }
 
 
-// https://leetcode.com/problems/binary-tree-postorder-traversal/
+// https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 object Solution {
 	def postorder(root: Node): List[Int] = {
 		if (root == null) List()

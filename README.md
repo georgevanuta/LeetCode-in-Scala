@@ -20,7 +20,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [111. Minimum Depth of Binary Tree](src/MinDepth/Solution.scala) \
 [125. Valid Palindrome](src/IsPalindromeString/Solution.scala) \
 [141. Linked List Cycle](src/HasCycle/Solution.scala) \
-[145. Binary Tree Postorder Traversal](src/Postorder/Solution.scala) \
+[145. Binary Tree Postorder Traversal](src/PostorderTraversal/Solution.scala) \
 [160. Intersection of Two Linked Lists](src/GetIntersectionNode/Solution.scala) \
 [169. Majority Element](src/MajorityElement/Solution.scala) \
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
@@ -70,6 +70,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [450. Delete Node in a BST](src/DeleteNodeBT/Solution.scala) \
 [515. Find Largest Value in Each Tree Row](src/MaxEachLevelBT/Solution.scala) \
 [567. Permutation in String](src/CheckInclusion//Solution.scala) \
+[590. N-ary Tree Postorder Traversal](src/Postorder/Solution.scala) \
 [690. Employee Importance](src/EmployeeImportance/Solution.scala) \
 [791. Custom Sort String](src/CustomOrder/Solution.scala) \
 [849. Maximize Distance to Closest Person](src/MaxSeatDist/Solution.scala) \
