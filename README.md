@@ -5,6 +5,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 
 ## Easy
 
+[66. Plus One](src/AddOne/Solution.scala)
 [67. Add Binary](/src/AddBinary/Solution.scala)
 
 ## Medium
