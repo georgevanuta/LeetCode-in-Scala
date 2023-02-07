@@ -7,6 +7,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 
 [9. Palindrome Number](src/IsPalindrome/Solution.scala) \
 [14. Longest Common Prefix](src/LongestCommonPrefix/Solution.scala) \
+[26. Remove Duplicates from Sorted Array](src/RemoveDuplicates/Solution.scala) \
 [35. Search Insert Position](src/BinarySearch/Solution.scala) \
 [58. Length of Last Word](src/LengthOfLastWord/Solution.scala) \
 [66. Plus One](src/AddOne/Solution.scala) \
@@ -42,12 +43,14 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [724. Find Pivot Index](src/PivotIndex/Solution.scala) \
 [819. Most Common Word](src/BannedWords/Solution.scala) \
 [832. Flipping an Image](src/FlipInvert/Solution.scala) \
+[836. Rectangle Overlap](src/RectangleOverlap/Solution.scala) \
 [872. Leaf-Similar Trees](src/LeafSimilar/Solution.scala) \
 [897. Increasing Order Search Tree](src/IncreasingBST/Solution.scala) \
 [941. Valid Mountain Array](src/MountainArray/Solution.scala) \
 [953. Verifying an Alien Dictionary](src/AlienLanguage/Solution.scala) \
 [993. Cousins in Binary Tree](src/IsCousins/Solution.scala) \
 [1002. Find Common Characters](src/CommonLetters/Solution.scala) \
+[1122. Relative Sort Array](src/RelativeSort/Solution.scala) \
 [1160. Find Words That Can Be Formed by Characters](src/GoodString/Solution.scala) \
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala) \
 [2490. Circular Sentence](src/IsCircularSentence/Solution.scala) \
@@ -75,6 +78,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [590. N-ary Tree Postorder Traversal](src/Postorder/Solution.scala) \
 [690. Employee Importance](src/EmployeeImportance/Solution.scala) \
 [791. Custom Sort String](src/CustomOrder/Solution.scala) \
+[814. Binary Tree Pruning](src/PruneTree/Solution.scala) \
 [849. Maximize Distance to Closest Person](src/MaxSeatDist/Solution.scala) \
 [937. Reorder Data in Log Files](src/Logs/Solution.scala) \
 [957. Prison Cells After N Days](src/Prison/Solution.scala) \

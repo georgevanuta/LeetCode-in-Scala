@@ -1,5 +1,7 @@
 package RemoveDuplicates
 
+
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 object Solution {
 	def removeDuplicates(nums: Array[Int]): Int = {
 		var currIndex: Int = 0
