@@ -14,6 +14,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [83. Remove Duplicates from Sorted List](src/DeleteDuplicates/Solution.scala) \
 [94. Binary Tree Inorder Traversal](src/InorderTraversal/Solution.scala) \
 [101. Symmetric Tree](src/IsSymmetric/Solution.scala) \
+[104. Maximum Depth of Binary Tree](src/MaxDepth/Solution.scala) \
 [110. Balanced Binary Tree](src/IsBalanced/Solution.scala) \
 [125. Valid Palindrome](src/IsPalindromeString/Solution.scala) \
 [141. Linked List Cycle](src/HasCycle/Solution.scala) \
@@ -55,6 +56,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [382. Linked List Random Node](src/GetRandom/Solution.scala) \
 [438. Find All Anagrams in a String](src/FindAnagrams/Solution.scala) \
 [450. Delete Node in a BST](src/DeleteNodeBT/Solution.scala) \
+[515. Find Largest Value in Each Tree Row](src/MaxEachLevelBT/Solution.scala) \
 [567. Permutation in String](src/CheckInclusion//Solution.scala) \
 [690. Employee Importance](src/EmployeeImportance/Solution.scala) \
 [791. Custom Sort String](src/CustomOrder/Solution.scala) \
