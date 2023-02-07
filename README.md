@@ -6,3 +6,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 ## Easy
 
 [67. Add Binary](/src/AddBinary/Solution.scala)
+
+## Medium
+
+[2. Add Two Numbers](src/AddLists/Solution.scala)
