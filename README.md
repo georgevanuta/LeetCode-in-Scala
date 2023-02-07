@@ -58,6 +58,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [977. Squares of a Sorted Array](src/SquareOrder/Solution.scala) \
 [993. Cousins in Binary Tree](src/IsCousins/Solution.scala) \
 [1002. Find Common Characters](src/CommonLetters/Solution.scala) \
+[1022. Sum of Root To Leaf Binary Numbers](src/SumBT/Solution.scala) \
 [1122. Relative Sort Array](src/RelativeSort/Solution.scala) \
 [1160. Find Words That Can Be Formed by Characters](src/GoodString/Solution.scala) \
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala) \
@@ -89,6 +90,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [382. Linked List Random Node](src/GetRandom/Solution.scala) \
 [398. Random Pick Index](src/Pick/Solution.scala) \
 [438. Find All Anagrams in a String](src/FindAnagrams/Solution.scala) \
+[445. Add Two Numbers II](src/SumLinkedLists/Solution.scala) \
 [450. Delete Node in a BST](src/DeleteNodeBT/Solution.scala) \
 [515. Find Largest Value in Each Tree Row](src/MaxEachLevelBT/Solution.scala) \
 [567. Permutation in String](src/CheckInclusion//Solution.scala) \
