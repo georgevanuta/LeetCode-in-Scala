@@ -1,10 +1,13 @@
 package Postorder
 
+
 class Node(var _value: Int) {
 	var value: Int = _value
 	var children: List[Node] = List()
 }
 
+
+// https://leetcode.com/problems/binary-tree-postorder-traversal/
 object Solution {
 	def postorder(root: Node): List[Int] = {
 		if (root == null) List()

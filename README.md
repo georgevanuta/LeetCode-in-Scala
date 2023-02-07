@@ -20,6 +20,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [111. Minimum Depth of Binary Tree](src/MinDepth/Solution.scala) \
 [125. Valid Palindrome](src/IsPalindromeString/Solution.scala) \
 [141. Linked List Cycle](src/HasCycle/Solution.scala) \
+[145. Binary Tree Postorder Traversal](src/Postorder/Solution.scala) \
 [160. Intersection of Two Linked Lists](src/GetIntersectionNode/Solution.scala) \
 [169. Majority Element](src/MajorityElement/Solution.scala) \
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
@@ -36,6 +37,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [551. Student Attendance Record I](src/CheckRecord/Solution.scala) \
 [575. Distribute Candies](src/Candies/Solution.scala) \
 [617. Merge Two Binary Trees](src/MergeTrees/Solution.scala) \
+[724. Find Pivot Index](src/PivotIndex/Solution.scala) \
 [819. Most Common Word](src/BannedWords/Solution.scala) \
 [832. Flipping an Image](src/FlipInvert/Solution.scala) \
 [872. Leaf-Similar Trees](src/LeafSimilar/Solution.scala) \
