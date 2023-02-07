@@ -10,12 +10,14 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [35. Search Insert Position](src/BinarySearch/Solution.scala) \
 [58. Length of Last Word](src/LengthOfLastWord/Solution.scala) \
 [66. Plus One](src/AddOne/Solution.scala) \
-[67. Add Binary](/src/AddBinary/Solution.scala) \
+[67. Add Binary](src/AddBinary/Solution.scala) \
+[69. Sqrt(x)](src/MySqrt/Solution.scala) \
 [83. Remove Duplicates from Sorted List](src/DeleteDuplicates/Solution.scala) \
 [94. Binary Tree Inorder Traversal](src/InorderTraversal/Solution.scala) \
 [101. Symmetric Tree](src/IsSymmetric/Solution.scala) \
 [104. Maximum Depth of Binary Tree](src/MaxDepth/Solution.scala) \
 [110. Balanced Binary Tree](src/IsBalanced/Solution.scala) \
+[111. Minimum Depth of Binary Tree](src/MinDepth/Solution.scala) \
 [125. Valid Palindrome](src/IsPalindromeString/Solution.scala) \
 [141. Linked List Cycle](src/HasCycle/Solution.scala) \
 [160. Intersection of Two Linked Lists](src/GetIntersectionNode/Solution.scala) \
@@ -23,6 +25,9 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
 [217. Contains Duplicate](src/ContainsDuplicates/Solution.scala) \
 [226. Invert Binary Tree](src/InvertBT/Solution.scala) \
+[232. Implement Queue using Stacks](src/MyQueue/MyQueue.scala) \
+[268. Missing Number](src/MissingNumber/Solution.scala) \
+[292. Nim Game](src/NimGame/Solution.scala) \
 [404. Sum of Left Leaves](src/LeftSumBT/Solution.scala) \
 [448. Find All Numbers Disappeared in an Array](src/DissapNums/Solution.scala) \
 [461. Hamming Distance](src/HammingBinaryDistance/Solution.scala) \
@@ -30,16 +35,19 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [509. Fibonacci Number](src/Fibo/Solution.scala) \
 [551. Student Attendance Record I](src/CheckRecord/Solution.scala) \
 [575. Distribute Candies](src/Candies/Solution.scala) \
+[617. Merge Two Binary Trees](src/MergeTrees/Solution.scala) \
 [819. Most Common Word](src/BannedWords/Solution.scala) \
 [832. Flipping an Image](src/FlipInvert/Solution.scala) \
 [872. Leaf-Similar Trees](src/LeafSimilar/Solution.scala) \
 [897. Increasing Order Search Tree](src/IncreasingBST/Solution.scala) \
+[941. Valid Mountain Array](src/MountainArray/Solution.scala) \
 [953. Verifying an Alien Dictionary](src/AlienLanguage/Solution.scala) \
 [993. Cousins in Binary Tree](src/IsCousins/Solution.scala) \
 [1002. Find Common Characters](src/CommonLetters/Solution.scala) \
 [1160. Find Words That Can Be Formed by Characters](src/GoodString/Solution.scala) \
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala) \
 [2490. Circular Sentence](src/IsCircularSentence/Solution.scala) \
+[2496. Maximum Value of a String in an Array](src/MaximumValue/Solution.scala) \
 [2500. Delete Greatest Value in Each Row](src/DeleteGreatestValue/Solution.scala) \
 [2544. Alternating Digit Sum](src/AlternatingDigitSum/Solution.scala)
 
@@ -50,16 +58,19 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [22. Generate Parentheses](src/GenerateParenthesis/Solution.scala) \
 [34. Find First and Last Position of Element in Sorted Array](src/FirstAndLast/Solution.scala) \
 [49. Group Anagrams](src/Anagrams/Solution.scala) \
+[162. Find Peak Element](src/Peak/Solution.scala) \
 [229. Majority Element II](src/Majority/Solution.scala) \
 [237. Delete Node in a Linked List](src/DeleteNode/Solution.scala) \
 [287. Find the Duplicate Number](src/DuplicateNumber/Solution.scala) \
 [382. Linked List Random Node](src/GetRandom/Solution.scala) \
+[398. Random Pick Index](src/Pick/Solution.scala) \
 [438. Find All Anagrams in a String](src/FindAnagrams/Solution.scala) \
 [450. Delete Node in a BST](src/DeleteNodeBT/Solution.scala) \
 [515. Find Largest Value in Each Tree Row](src/MaxEachLevelBT/Solution.scala) \
 [567. Permutation in String](src/CheckInclusion//Solution.scala) \
 [690. Employee Importance](src/EmployeeImportance/Solution.scala) \
 [791. Custom Sort String](src/CustomOrder/Solution.scala) \
+[849. Maximize Distance to Closest Person](src/MaxSeatDist/Solution.scala) \
 [937. Reorder Data in Log Files](src/Logs/Solution.scala) \
 [973. K Closest Points to Origin](src/ClosestK/Solution.scala) \
 [1038. Binary Search Tree to Greater Sum Tree](src/BSTtoGST/Solutions.scala) \
