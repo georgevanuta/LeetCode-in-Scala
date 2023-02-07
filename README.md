@@ -6,6 +6,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 ## Easy
 
 [9. Palindrome Number](src/IsPalindrome/Solution.scala) \
+[14. Longest Common Prefix](src/LongestCommonPrefix/Solution.scala) \
 [35. Search Insert Position](src/BinarySearch/Solution.scala) \
 [58. Length of Last Word](src/LengthOfLastWord/Solution.scala) \
 [66. Plus One](src/AddOne/Solution.scala) \
@@ -43,6 +44,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 ## Medium
 
 [2. Add Two Numbers](src/AddLists/Solution.scala) \
+[https://leetcode.com/problems/longest-palindromic-substring/](src/LongestPalindrome/Solution.scala) \
 [22. Generate Parentheses](src/GenerateParenthesis/Solution.scala) \
 [34. Find First and Last Position of Element in Sorted Array](src/FirstAndLast/Solution.scala) \
 [49. Group Anagrams](src/Anagrams/Solution.scala) \
@@ -54,6 +56,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [567. Permutation in String](src/CheckInclusion//Solution.scala) \
 [690. Employee Importance](src/EmployeeImportance/Solution.scala) \
 [791. Custom Sort String](src/CustomOrder/Solution.scala) \
+[937. Reorder Data in Log Files](src/Logs/Solution.scala) \
 [973. K Closest Points to Origin](src/ClosestK/Solution.scala) \
 [1038. Binary Search Tree to Greater Sum Tree](src/BSTtoGST/Solutions.scala) \
 [1042. Flower Planting With No Adjacent](src/Garden/Solution.scala) \

@@ -1,5 +1,7 @@
 package LongestPalindrome
 
+
+// 5. Longest Palindromic Substring
 object Solution {
 	def longestPalindrome(s: String): String = {
 		val n: Int = s.length
