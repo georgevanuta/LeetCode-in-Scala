@@ -1,5 +1,7 @@
 package BinarySearch
 
+
+// https://leetcode.com/problems/search-insert-position/
 object Solution {
 	def searchInsert(nums: Array[Int], target: Int): Int = {
 		def searchAux(low: Int, high: Int): Int = {
