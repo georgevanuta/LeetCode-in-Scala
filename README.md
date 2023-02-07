@@ -7,6 +7,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 
 [66. Plus One](src/AddOne/Solution.scala)
 [67. Add Binary](/src/AddBinary/Solution.scala)
+[953. Verifying an Alien Dictionary](src/AlienLanguage/Solution.scala)
 
 ## Medium
 

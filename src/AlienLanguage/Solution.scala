@@ -1,5 +1,7 @@
 package AlienLanguage
 
+
+// https://leetcode.com/problems/verifying-an-alien-dictionary/
 object Solution {
 	def compareAlienWords(w1: String, w2: String, order: String): Boolean = {
 		for (i <- 0 to Math.min(w1.length, w2.length) - 1) {
