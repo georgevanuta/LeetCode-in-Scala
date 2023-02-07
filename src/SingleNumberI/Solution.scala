@@ -3,6 +3,7 @@ package SingleNumberI
 import scala.collection.immutable.HashMap
 
 
+// https://leetcode.com/problems/single-number/
 object Solution {
 	def singleNumber(nums: Array[Int], countMap: HashMap[Int, Boolean]): Int = {
 		if (nums.isEmpty)

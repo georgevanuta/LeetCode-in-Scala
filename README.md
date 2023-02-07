@@ -6,6 +6,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 ## Easy
 
 [9. Palindrome Number](src/IsPalindrome/Solution.scala) \
+[13. Roman to Integer](src/RomanToInt/Solution.scala) \
 [14. Longest Common Prefix](src/LongestCommonPrefix/Solution.scala) \
 [26. Remove Duplicates from Sorted Array](src/RemoveDuplicates/Solution.scala) \
 [27. Remove Element](src/RemoveElement/Solution.scala) \
@@ -21,6 +22,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [110. Balanced Binary Tree](src/IsBalanced/Solution.scala) \
 [111. Minimum Depth of Binary Tree](src/MinDepth/Solution.scala) \
 [125. Valid Palindrome](src/IsPalindromeString/Solution.scala) \
+[136. Single Number](src/SingleNumberI/Solution.scala) \
 [141. Linked List Cycle](src/HasCycle/Solution.scala) \
 [144. Binary Tree Preorder Traversal](src/PreorderTraversal/Solution.scala) \
 [145. Binary Tree Postorder Traversal](src/PostorderTraversal/Solution.scala) \
@@ -57,6 +59,8 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1122. Relative Sort Array](src/RelativeSort/Solution.scala) \
 [1160. Find Words That Can Be Formed by Characters](src/GoodString/Solution.scala) \
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala) \
+[1266. Minimum Time Visiting All Points](src/ShortestPoint/Solution.scala) \
+[1528. Shuffle String](src/ShuffleString/Solution.scala) \
 [2490. Circular Sentence](src/IsCircularSentence/Solution.scala) \
 [2496. Maximum Value of a String in an Array](src/MaximumValue/Solution.scala) \
 [2500. Delete Greatest Value in Each Row](src/DeleteGreatestValue/Solution.scala) \
@@ -67,12 +71,16 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [2. Add Two Numbers](src/AddLists/Solution.scala) \
 [https://leetcode.com/problems/longest-palindromic-substring/](src/LongestPalindrome/Solution.scala) \
 [22. Generate Parentheses](src/GenerateParenthesis/Solution.scala) \
+[33. Search in Rotated Sorted Array](src/SearchRotated/Solution.scala) \
 [34. Find First and Last Position of Element in Sorted Array](src/FirstAndLast/Solution.scala) \
 [49. Group Anagrams](src/Anagrams/Solution.scala) \
+[71. Simplify Path](src/SimplifyPath/Solution.scala) \
+[74. Search a 2D Matrix](src/SearchMatrix/Solution.scala) \
 [162. Find Peak Element](src/Peak/Solution.scala) \
 [199. Binary Tree Right Side View](src/RightSideBT/Solution.scala) \
 [229. Majority Element II](src/Majority/Solution.scala) \
 [237. Delete Node in a Linked List](src/DeleteNode/Solution.scala) \
+[260. Single Number III](src/SingleNumber/Solution.scala) \
 [287. Find the Duplicate Number](src/DuplicateNumber/Solution.scala) \
 [382. Linked List Random Node](src/GetRandom/Solution.scala) \
 [398. Random Pick Index](src/Pick/Solution.scala) \
@@ -82,7 +90,9 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [567. Permutation in String](src/CheckInclusion//Solution.scala) \
 [590. N-ary Tree Postorder Traversal](src/Postorder/Solution.scala) \
 [690. Employee Importance](src/EmployeeImportance/Solution.scala) \
+[788. Rotated Digits](src/RotateDig/Solution.scala) \
 [791. Custom Sort String](src/CustomOrder/Solution.scala) \
+[796. Rotate String](src/RotateShift/Solution.scala) \
 [814. Binary Tree Pruning](src/PruneTree/Solution.scala) \
 [849. Maximize Distance to Closest Person](src/MaxSeatDist/Solution.scala) \
 [937. Reorder Data in Log Files](src/Logs/Solution.scala) \
@@ -91,4 +101,5 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1021. Remove Outermost Parentheses](src/PrimitiveParenth/Solution.scala) \
 [1038. Binary Search Tree to Greater Sum Tree](src/BSTtoGST/Solutions.scala) \
 [1042. Flower Planting With No Adjacent](src/Garden/Solution.scala) \
+[1155. Number of Dice Rolls With Target Sum](src/RollsToTarget/Solution.scala) \
 [1315. Sum of Nodes with Even-Valued Grandparent](src/GrandfatherSum/Solution.scala)
