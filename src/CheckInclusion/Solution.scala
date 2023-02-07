@@ -1,5 +1,7 @@
 package CheckInclusion
 
+
+// https://leetcode.com/problems/permutation-in-string/
 object Solution {
 	def checkInclusion(s1: String, s2: String): Boolean = {
 		val wordLength: Int = s1.length
