@@ -20,12 +20,14 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [111. Minimum Depth of Binary Tree](src/MinDepth/Solution.scala) \
 [125. Valid Palindrome](src/IsPalindromeString/Solution.scala) \
 [141. Linked List Cycle](src/HasCycle/Solution.scala) \
+[144. Binary Tree Preorder Traversal](src/PreorderTraversal/Solution.scala) \
 [145. Binary Tree Postorder Traversal](src/PostorderTraversal/Solution.scala) \
 [160. Intersection of Two Linked Lists](src/GetIntersectionNode/Solution.scala) \
 [169. Majority Element](src/MajorityElement/Solution.scala) \
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
 [217. Contains Duplicate](src/ContainsDuplicates/Solution.scala) \
 [226. Invert Binary Tree](src/InvertBT/Solution.scala) \
+[231. Power of Two](src/PowerOfTwo/Solution.scala) \
 [232. Implement Queue using Stacks](src/MyQueue/MyQueue.scala) \
 [268. Missing Number](src/MissingNumber/Solution.scala) \
 [292. Nim Game](src/NimGame/Solution.scala) \
@@ -75,7 +77,9 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [791. Custom Sort String](src/CustomOrder/Solution.scala) \
 [849. Maximize Distance to Closest Person](src/MaxSeatDist/Solution.scala) \
 [937. Reorder Data in Log Files](src/Logs/Solution.scala) \
+[957. Prison Cells After N Days](src/Prison/Solution.scala) \
 [973. K Closest Points to Origin](src/ClosestK/Solution.scala) \
+[1021. Remove Outermost Parentheses](src/PrimitiveParenth/Solution.scala) \
 [1038. Binary Search Tree to Greater Sum Tree](src/BSTtoGST/Solutions.scala) \
 [1042. Flower Planting With No Adjacent](src/Garden/Solution.scala) \
 [1315. Sum of Nodes with Even-Valued Grandparent](src/GrandfatherSum/Solution.scala)
