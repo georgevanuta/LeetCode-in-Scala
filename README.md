@@ -34,6 +34,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [268. Missing Number](src/MissingNumber/Solution.scala) \
 [292. Nim Game](src/NimGame/Solution.scala) \
 [344. Reverse String](src/ReverseString/Solution.scala) \
+[345. Reverse Vowels of a String](src/ReverseVowel/Solution.scala) \
 [404. Sum of Left Leaves](src/LeftSumBT/Solution.scala) \
 [448. Find All Numbers Disappeared in an Array](src/DissapNums/Solution.scala) \
 [459. Repeated Substring Pattern](src/RepeatedSubstring/Solution.scala) \
@@ -69,6 +70,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [34. Find First and Last Position of Element in Sorted Array](src/FirstAndLast/Solution.scala) \
 [49. Group Anagrams](src/Anagrams/Solution.scala) \
 [162. Find Peak Element](src/Peak/Solution.scala) \
+[199. Binary Tree Right Side View](src/RightSideBT/Solution.scala) \
 [229. Majority Element II](src/Majority/Solution.scala) \
 [237. Delete Node in a Linked List](src/DeleteNode/Solution.scala) \
 [287. Find the Duplicate Number](src/DuplicateNumber/Solution.scala) \
