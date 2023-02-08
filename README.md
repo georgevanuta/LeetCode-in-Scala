@@ -40,6 +40,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [232. Implement Queue using Stacks](src/MyQueue/MyQueue.scala) \
 [268. Missing Number](src/MissingNumber/Solution.scala) \
 [292. Nim Game](src/NimGame/Solution.scala) \
+[342. Power of Four](src/IsPowerOf4/Solution.scala) \
 [344. Reverse String](src/ReverseString/Solution.scala) \
 [345. Reverse Vowels of a String](src/ReverseVowel/Solution.scala) \
 [404. Sum of Left Leaves](src/LeftSumBT/Solution.scala) \
