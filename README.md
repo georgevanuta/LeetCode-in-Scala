@@ -43,6 +43,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [342. Power of Four](src/IsPowerOf4/Solution.scala) \
 [344. Reverse String](src/ReverseString/Solution.scala) \
 [345. Reverse Vowels of a String](src/ReverseVowel/Solution.scala) \
+[349. Intersection of Two Arrays](src/Intersection/Solution.scala) \
 [404. Sum of Left Leaves](src/LeftSumBT/Solution.scala) \
 [448. Find All Numbers Disappeared in an Array](src/DissapNums/Solution.scala) \
 [459. Repeated Substring Pattern](src/RepeatedSubstring/Solution.scala) \
