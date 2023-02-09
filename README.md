@@ -106,6 +106,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [162. Find Peak Element](src/Peak/Solution.scala) \
 [199. Binary Tree Right Side View](src/RightSideBT/Solution.scala) \
 [229. Majority Element II](src/Majority/Solution.scala) \
+[230. Kth Smallest Element in a BST](src/KthSmallest/Solution.scala) \
 [237. Delete Node in a Linked List](src/DeleteNode/Solution.scala) \
 [260. Single Number III](src/SingleNumber/Solution.scala) \
 [287. Find the Duplicate Number](src/DuplicateNumber/Solution.scala) \
