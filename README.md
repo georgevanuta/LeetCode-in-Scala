@@ -123,6 +123,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [515. Find Largest Value in Each Tree Row](src/MaxEachLevelBT/Solution.scala) \
 [567. Permutation in String](src/CheckInclusion//Solution.scala) \
 [590. N-ary Tree Postorder Traversal](src/Postorder/Solution.scala) \
+[654. Maximum Binary Tree](src/ConstructMaximumBT/Solution.scala) \
 [669. Trim a Binary Search Tree](src/TrimBST/Solution.scala) \
 [690. Employee Importance](src/EmployeeImportance/Solution.scala) \
 [701. Insert into a Binary Search Tree](src/InsertIntoBST/Solution.scala) \
