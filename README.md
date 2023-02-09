@@ -21,6 +21,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [83. Remove Duplicates from Sorted List](src/DeleteDuplicates/Solution.scala) \
 [94. Binary Tree Inorder Traversal](src/InorderTraversal/Solution.scala) \
 [101. Symmetric Tree](src/IsSymmetric/Solution.scala) \
+[102. Binary Tree Level Order Traversal](src/LevelOrder/Solution.scala) \
 [104. Maximum Depth of Binary Tree](src/MaxDepth/Solution.scala) \
 [108. Convert Sorted Array to Binary Search Tree](src/SortedArrayToBST/Solution.scala) \
 [110. Balanced Binary Tree](src/IsBalanced/Solution.scala) \
