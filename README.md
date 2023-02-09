@@ -84,6 +84,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1266. Minimum Time Visiting All Points](src/ShortestPoint/Solution.scala) \
 [1528. Shuffle String](src/ShuffleString/Solution.scala) \
 [1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
+[2331. Evaluate Boolean Binary Tree](src/EvaluateTree/Solution.scala) \
 [2490. Circular Sentence](src/IsCircularSentence/Solution.scala) \
 [2496. Maximum Value of a String in an Array](src/MaximumValue/Solution.scala) \
 [2500. Delete Greatest Value in Each Row](src/DeleteGreatestValue/Solution.scala) \
