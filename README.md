@@ -104,6 +104,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [74. Search a 2D Matrix](src/SearchMatrix/Solution.scala) \
 [75. Sort Colors](src/SortColors/Solution.scala) \
 [79. Word Search](src/WordSearch/Solution.scala) \
+[103. Binary Tree Zigzag Level Order Traversal](src/ZigZagLevelOrder/Solution.scala) \
 [162. Find Peak Element](src/Peak/Solution.scala) \
 [199. Binary Tree Right Side View](src/RightSideBT/Solution.scala) \
 [229. Majority Element II](src/Majority/Solution.scala) \
