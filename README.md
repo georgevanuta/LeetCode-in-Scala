@@ -110,6 +110,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [287. Find the Duplicate Number](src/DuplicateNumber/Solution.scala) \
 [382. Linked List Random Node](src/GetRandom/Solution.scala) \
 [398. Random Pick Index](src/Pick/Solution.scala) \
+[427. Construct Quad Tree](src/ConstructQuadTree/Solution.scala) \
 [438. Find All Anagrams in a String](src/FindAnagrams/Solution.scala) \
 [445. Add Two Numbers II](src/SumLinkedLists/Solution.scala) \
 [450. Delete Node in a BST](src/DeleteNodeBT/Solution.scala) \
