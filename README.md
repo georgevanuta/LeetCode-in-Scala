@@ -92,7 +92,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 ## Medium
 
 [2. Add Two Numbers](src/AddLists/Solution.scala) \
-[https://leetcode.com/problems/longest-palindromic-substring/](src/LongestPalindrome/Solution.scala) \
+[5. Longest Palindromic Substring](src/LongestPalindrome/Solution.scala) \
 [22. Generate Parentheses](src/GenerateParenthesis/Solution.scala) \
 [33. Search in Rotated Sorted Array](src/SearchRotated/Solution.scala) \
 [34. Find First and Last Position of Element in Sorted Array](src/FirstAndLast/Solution.scala) \
