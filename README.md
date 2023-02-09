@@ -57,6 +57,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [575. Distribute Candies](src/Candies/Solution.scala) \
 [589. N-ary Tree Preorder Traversal](src/NaryTreePreorderTraversal/Solution.scala) \
 [617. Merge Two Binary Trees](src/MergeTrees/Solution.scala) \
+[645. Set Mismatch](src/FindErrorNums/Solution.scala) \
 [653. Two Sum IV - Input is a BST](src/TwoSumBT/Solution.scala) \
 [709. To Lower Case](/src/ToLowerCase/Solution.scala) \
 [724. Find Pivot Index](src/PivotIndex/Solution.scala) \
