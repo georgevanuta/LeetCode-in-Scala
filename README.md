@@ -138,4 +138,5 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1155. Number of Dice Rolls With Target Sum](src/RollsToTarget/Solution.scala) \
 [1302. Deepest Leaves Sum](src/DeepestLeavesSum/Solution.scala) \
 [1305. All Elements in Two Binary Search Trees](src/GetAllElements/Solution.scala) \
-[1315. Sum of Nodes with Even-Valued Grandparent](src/GrandfatherSum/Solution.scala)
+[1315. Sum of Nodes with Even-Valued Grandparent](src/GrandfatherSum/Solution.scala) \
+[1325. Delete Leaves With a Given Value](src/RemoveLeafNodes/Solution.scala) \
