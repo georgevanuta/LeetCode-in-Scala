@@ -118,6 +118,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [590. N-ary Tree Postorder Traversal](src/Postorder/Solution.scala) \
 [669. Trim a Binary Search Tree](src/TrimBST/Solution.scala) \
 [690. Employee Importance](src/EmployeeImportance/Solution.scala) \
+[701. Insert into a Binary Search Tree](src/InsertIntoBST/Solution.scala) \
 [763. Partition Labels](src/StringPartition/Solution.scala) \
 [788. Rotated Digits](src/RotateDig/Solution.scala) \
 [791. Custom Sort String](src/CustomOrder/Solution.scala) \
