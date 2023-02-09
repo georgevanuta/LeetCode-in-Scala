@@ -73,6 +73,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [872. Leaf-Similar Trees](src/LeafSimilar/Solution.scala) \
 [897. Increasing Order Search Tree](src/IncreasingBST/Solution.scala) \
 [929. Unique Email Addresses](src/UniqueEmails/Solution.scala) \
+[938. Range Sum of BST](src/RangeSumBST/Solution.scala) \
 [941. Valid Mountain Array](src/MountainArray/Solution.scala) \
 [953. Verifying an Alien Dictionary](src/AlienLanguage/Solution.scala) \
 [977. Squares of a Sorted Array](src/SquareOrder/Solution.scala) \
