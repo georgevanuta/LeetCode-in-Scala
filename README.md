@@ -139,7 +139,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [957. Prison Cells After N Days](src/Prison/Solution.scala) \
 [973. K Closest Points to Origin](src/ClosestK/Solution.scala) \
 [1021. Remove Outermost Parentheses](src/PrimitiveParenth/Solution.scala) \
-[1038. Binary Search Tree to Greater Sum Tree](src/BSTtoGST/Solutions.scala) \
+[1038. Binary Search Tree to Greater Sum Tree](src/BSTtoGST/Solution.scala) \
 [1042. Flower Planting With No Adjacent](src/Garden/Solution.scala) \
 [1155. Number of Dice Rolls With Target Sum](src/RollsToTarget/Solution.scala) \
 [1302. Deepest Leaves Sum](src/DeepestLeavesSum/Solution.scala) \
