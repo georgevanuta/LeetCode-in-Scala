@@ -50,6 +50,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [448. Find All Numbers Disappeared in an Array](src/DissapNums/Solution.scala) \
 [459. Repeated Substring Pattern](src/RepeatedSubstring/Solution.scala) \
 [461. Hamming Distance](src/HammingBinaryDistance/Solution.scala) \
+[485. Max Consecutive Ones](src/FindMaxConsecutiveOnes/Solution.scala) \
 [504. Base 7](src/ConvertToBase7/Solution.scala) \
 [509. Fibonacci Number](src/Fibo/Solution.scala) \
 [551. Student Attendance Record I](src/CheckRecord/Solution.scala) \
