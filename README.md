@@ -63,6 +63,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [617. Merge Two Binary Trees](src/MergeTrees/Solution.scala) \
 [645. Set Mismatch](src/FindErrorNums/Solution.scala) \
 [653. Two Sum IV - Input is a BST](src/TwoSumBT/Solution.scala) \
+[671. Second Minimum Node In a Binary Tree](src/FindSecondMinimumValue/Solution.scala) \
 [700. Search in a Binary Search Tree](src/SearchBST/Solution.scala) \
 [709. To Lower Case](/src/ToLowerCase/Solution.scala) \
 [724. Find Pivot Index](src/PivotIndex/Solution.scala) \
