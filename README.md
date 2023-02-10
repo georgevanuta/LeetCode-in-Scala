@@ -27,7 +27,6 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [108. Convert Sorted Array to Binary Search Tree](src/SortedArrayToBST/Solution.scala) \
 [110. Balanced Binary Tree](src/IsBalanced/Solution.scala) \
 [111. Minimum Depth of Binary Tree](src/MinDepth/Solution.scala) \
-[114. Flatten Binary Tree to Linked List](src/FlattenBT/Solution.scala) \
 [125. Valid Palindrome](src/IsPalindromeString/Solution.scala) \
 [136. Single Number](src/SingleNumberI/Solution.scala) \
 [141. Linked List Cycle](src/HasCycle/Solution.scala) \
@@ -113,6 +112,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [75. Sort Colors](src/SortColors/Solution.scala) \
 [79. Word Search](src/WordSearch/Solution.scala) \
 [103. Binary Tree Zigzag Level Order Traversal](src/ZigZagLevelOrder/Solution.scala) \
+[114. Flatten Binary Tree to Linked List](src/FlattenBT/Solution.scala) \
 [162. Find Peak Element](src/Peak/Solution.scala) \
 [199. Binary Tree Right Side View](src/RightSideBT/Solution.scala) \
 [229. Majority Element II](src/Majority/Solution.scala) \
