@@ -141,6 +141,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [937. Reorder Data in Log Files](src/Logs/Solution.scala) \
 [957. Prison Cells After N Days](src/Prison/Solution.scala) \
 [973. K Closest Points to Origin](src/ClosestK/Solution.scala) \
+[1019. Next Greater Node In Linked List](src/NextLargerNode/Solution.scala) \
 [1021. Remove Outermost Parentheses](src/PrimitiveParenth/Solution.scala) \
 [1038. Binary Search Tree to Greater Sum Tree](src/BSTtoGST/Solution.scala) \
 [1042. Flower Planting With No Adjacent](src/Garden/Solution.scala) \
