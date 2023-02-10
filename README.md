@@ -88,6 +88,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1160. Find Words That Can Be Formed by Characters](src/GoodString/Solution.scala) \
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala) \
 [1266. Minimum Time Visiting All Points](src/ShortestPoint/Solution.scala) \
+[1290. Convert Binary Number in a Linked List to Integer](src/GetDecimalValue/Solution.scala) \
 [1528. Shuffle String](src/ShuffleString/Solution.scala) \
 [1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
 [2331. Evaluate Boolean Binary Tree](src/EvaluateTree/Solution.scala) \
