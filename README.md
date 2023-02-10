@@ -74,6 +74,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [832. Flipping an Image](src/FlipInvert/Solution.scala) \
 [836. Rectangle Overlap](src/RectangleOverlap/Solution.scala) \
 [872. Leaf-Similar Trees](src/LeafSimilar/Solution.scala) \
+[876. Middle of the Linked List](src/MiddleNode/Solution.scala) \
 [897. Increasing Order Search Tree](src/IncreasingBST/Solution.scala) \
 [929. Unique Email Addresses](src/UniqueEmails/Solution.scala) \
 [938. Range Sum of BST](src/RangeSumBST/Solution.scala) \
