@@ -66,6 +66,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [653. Two Sum IV - Input is a BST](src/TwoSumBT/Solution.scala) \
 [671. Second Minimum Node In a Binary Tree](src/FindSecondMinimumValue/Solution.scala) \
 [700. Search in a Binary Search Tree](src/SearchBST/Solution.scala) \
+[705. Design HashSet](src/MyHashSet/MyHashSet.scala) \
 [709. To Lower Case](/src/ToLowerCase/Solution.scala) \
 [724. Find Pivot Index](src/PivotIndex/Solution.scala) \
 [819. Most Common Word](src/BannedWords/Solution.scala) \
