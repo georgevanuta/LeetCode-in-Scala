@@ -27,6 +27,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [108. Convert Sorted Array to Binary Search Tree](src/SortedArrayToBST/Solution.scala) \
 [110. Balanced Binary Tree](src/IsBalanced/Solution.scala) \
 [111. Minimum Depth of Binary Tree](src/MinDepth/Solution.scala) \
+[114. Flatten Binary Tree to Linked List](src/FlattenBT/Solution.scala) \
 [125. Valid Palindrome](src/IsPalindromeString/Solution.scala) \
 [136. Single Number](src/SingleNumberI/Solution.scala) \
 [141. Linked List Cycle](src/HasCycle/Solution.scala) \
