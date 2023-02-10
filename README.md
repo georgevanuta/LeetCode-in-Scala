@@ -117,6 +117,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [237. Delete Node in a Linked List](src/DeleteNode/Solution.scala) \
 [260. Single Number III](src/SingleNumber/Solution.scala) \
 [287. Find the Duplicate Number](src/DuplicateNumber/Solution.scala) \
+[328. Odd Even Linked List](src/OddEvenList/Solution.scala) \
 [382. Linked List Random Node](src/GetRandom/Solution.scala) \
 [398. Random Pick Index](src/Pick/Solution.scala) \
 [427. Construct Quad Tree](src/ConstructQuadTree/Solution.scala) \
