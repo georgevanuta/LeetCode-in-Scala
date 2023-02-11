@@ -50,6 +50,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [344. Reverse String](src/ReverseString/Solution.scala) \
 [345. Reverse Vowels of a String](src/ReverseVowel/Solution.scala) \
 [349. Intersection of Two Arrays](src/Intersection/Solution.scala) \
+[387. First Unique Character in a String](src/FirstUniqueChar/Solution.scala) \
 [392. Is Subsequence](src/IsSubsequence/Solution.scala) \
 [404. Sum of Left Leaves](src/LeftSumBT/Solution.scala) \
 [412. Fizz Buzz](src/FizzBuzz/Solution.scala) \
