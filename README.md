@@ -37,6 +37,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
 [195. Tenth Line](src/TenthLine/solution.sh) \
 [203. Remove Linked List Elements](src/RemoveElements/Solution.scala) \
+[206. Reverse Linked List](src/ReverseList/Solution.scala) \
 [217. Contains Duplicate](src/ContainsDuplicates/Solution.scala) \
 [226. Invert Binary Tree](src/InvertBT/Solution.scala) \
 [231. Power of Two](src/PowerOfTwo/Solution.scala) \
