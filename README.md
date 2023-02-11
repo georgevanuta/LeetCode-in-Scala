@@ -45,6 +45,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [242. Valid Anagram](src/IsAnagram/Solution.scala) \
 [268. Missing Number](src/MissingNumber/Solution.scala) \
 [292. Nim Game](src/NimGame/Solution.scala) \
+[326. Power of Three](src/IsPowerOfThree/Solution.scala) \
 [342. Power of Four](src/IsPowerOf4/Solution.scala) \
 [344. Reverse String](src/ReverseString/Solution.scala) \
 [345. Reverse Vowels of a String](src/ReverseVowel/Solution.scala) \
