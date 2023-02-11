@@ -52,6 +52,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [349. Intersection of Two Arrays](src/Intersection/Solution.scala) \
 [392. Is Subsequence](src/IsSubsequence/Solution.scala) \
 [404. Sum of Left Leaves](src/LeftSumBT/Solution.scala) \
+[412. Fizz Buzz](src/FizzBuzz/Solution.scala) \
 [434. Number of Segments in a String](src/CountSegments/Solution.scala) \
 [448. Find All Numbers Disappeared in an Array](src/DissapNums/Solution.scala) \
 [459. Repeated Substring Pattern](src/RepeatedSubstring/Solution.scala) \
