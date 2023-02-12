@@ -97,6 +97,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1290. Convert Binary Number in a Linked List to Integer](src/GetDecimalValue/Solution.scala) \
 [1528. Shuffle String](src/ShuffleString/Solution.scala) \
 [1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
+[2148. Count Elements With Strictly Smaller and Greater Elements](src/CountElements/Solution.scala) \
 [2180. Count Integers With Even Digit Sum](src/CountEven/Solution.scala) \
 [2236. Root Equals Sum of Children](src/CheckTree/Solution.scala) \
 [2239. Find Closest Number to Zero](src/FindClosestNumber/Solution.scala) \
