@@ -99,6 +99,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
 [2236. Root Equals Sum of Children](src/CheckTree/Solution.scala) \
 [2239. Find Closest Number to Zero](src/FindClosestNumber/Solution.scala) \
+[2248. Intersection of Multiple Arrays](src/IntersectionMatrix/Solution.scala) \
 [2331. Evaluate Boolean Binary Tree](src/EvaluateTree/Solution.scala) \
 [2490. Circular Sentence](src/IsCircularSentence/Solution.scala) \
 [2496. Maximum Value of a String in an Array](src/MaximumValue/Solution.scala) \
