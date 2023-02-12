@@ -150,6 +150,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [438. Find All Anagrams in a String](src/FindAnagrams/Solution.scala) \
 [445. Add Two Numbers II](src/SumLinkedLists/Solution.scala) \
 [450. Delete Node in a BST](src/DeleteNodeBT/Solution.scala) \
+[451. Sort Characters By Frequency](src/FreqSort/Solution.scala) \
 [508. Most Frequent Subtree Sum](src/FindFrequentTreeSum/Solution.scala) \
 [513. Find Bottom Left Tree Value](src/FindBottomLeftValue/Solution.scala) \
 [515. Find Largest Value in Each Tree Row](src/MaxEachLevelBT/Solution.scala) \
