@@ -119,6 +119,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [22. Generate Parentheses](src/GenerateParenthesis/Solution.scala) \
 [33. Search in Rotated Sorted Array](src/SearchRotated/Solution.scala) \
 [34. Find First and Last Position of Element in Sorted Array](src/FirstAndLast/Solution.scala) \
+[36. Valid Sudoku](src/IsValidSudoku/Solution.scala) \
 [49. Group Anagrams](src/Anagrams/Solution.scala) \
 [59. Spiral Matrix II](src/Spiral/Solution.scala) \
 [71. Simplify Path](src/SimplifyPath/Solution.scala) \
