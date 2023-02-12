@@ -128,6 +128,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [79. Word Search](src/WordSearch/Solution.scala) \
 [103. Binary Tree Zigzag Level Order Traversal](src/ZigZagLevelOrder/Solution.scala) \
 [107. Binary Tree Level Order Traversal II](src/LevelOrderBottom/Solution.scala) \
+[109. Convert Sorted List to Binary Search Tree](src/SortedListToBST/Solution.scala) \
 [114. Flatten Binary Tree to Linked List](src/FlattenBT/Solution.scala) \
 [129. Sum Root to Leaf Numbers](src/SumNumbers/Solution.scala) \
 [162. Find Peak Element](src/Peak/Solution.scala) \
