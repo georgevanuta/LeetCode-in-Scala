@@ -62,6 +62,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [501. Find Mode in Binary Search Tree](src/FindMode/Solution.scala) \
 [504. Base 7](src/ConvertToBase7/Solution.scala) \
 [509. Fibonacci Number](src/Fibo/Solution.scala) \
+[530. Minimum Absolute Difference in BST](src/GetMinimumDifference/Solution.scala) \
 [551. Student Attendance Record I](src/CheckRecord/Solution.scala) \
 [559. Maximum Depth of N-ary Tree](src/NaryMaxDepth/Solution.scala) \
 [575. Distribute Candies](src/Candies/Solution.scala) \
