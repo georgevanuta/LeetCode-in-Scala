@@ -177,4 +177,5 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1302. Deepest Leaves Sum](src/DeepestLeavesSum/Solution.scala) \
 [1305. All Elements in Two Binary Search Trees](src/GetAllElements/Solution.scala) \
 [1315. Sum of Nodes with Even-Valued Grandparent](src/GrandfatherSum/Solution.scala) \
-[1325. Delete Leaves With a Given Value](src/RemoveLeafNodes/Solution.scala)
+[1325. Delete Leaves With a Given Value](src/RemoveLeafNodes/Solution.scala) \
+[1448. Count Good Nodes in Binary Tree](src/GoodNodes/Solution.scala) \
