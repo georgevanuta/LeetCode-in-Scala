@@ -93,6 +93,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [993. Cousins in Binary Tree](src/IsCousins/Solution.scala) \
 [1002. Find Common Characters](src/CommonLetters/Solution.scala) \
 [1022. Sum of Root To Leaf Binary Numbers](src/SumBT/Solution.scala) \
+[1051. Height Checker](src/HeightChecker/Solution.scala) \
 [1122. Relative Sort Array](src/RelativeSort/Solution.scala) \
 [1160. Find Words That Can Be Formed by Characters](src/GoodString/Solution.scala) \
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala) \
