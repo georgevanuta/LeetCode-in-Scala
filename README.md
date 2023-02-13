@@ -172,6 +172,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [973. K Closest Points to Origin](src/ClosestK/Solution.scala) \
 [1019. Next Greater Node In Linked List](src/NextLargerNode/Solution.scala) \
 [1021. Remove Outermost Parentheses](src/PrimitiveParenth/Solution.scala) \
+[1026. Maximum Difference Between Node and Ancestor](src/MaxAncestorDiff/Solution.scala) \
 [1038. Binary Search Tree to Greater Sum Tree](src/BSTtoGST/Solution.scala) \
 [1042. Flower Planting With No Adjacent](src/Garden/Solution.scala) \
 [1155. Number of Dice Rolls With Target Sum](src/RollsToTarget/Solution.scala) \
