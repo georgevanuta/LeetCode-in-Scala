@@ -101,6 +101,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1290. Convert Binary Number in a Linked List to Integer](src/GetDecimalValue/Solution.scala) \
 [1528. Shuffle String](src/ShuffleString/Solution.scala) \
 [1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
+[1791. Find Center of Star Graph](src/FindCenter/Solution.scala) \
 [1929. Concatenation of Array](src/GetConcatenation/Solution.scala) \
 [2129. Capitalize the Title](src/CapitalizeTitle/Solution.scala) \
 [2133. Check if Every Row and Column Contains All Numbers](src/CheckValid/Solution.scala) \
