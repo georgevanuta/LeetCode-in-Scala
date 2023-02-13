@@ -185,7 +185,8 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1315. Sum of Nodes with Even-Valued Grandparent](src/GrandfatherSum/Solution.scala) \
 [1325. Delete Leaves With a Given Value](src/RemoveLeafNodes/Solution.scala) \
 [1448. Count Good Nodes in Binary Tree](src/GoodNodes/Solution.scala) \
-[1669. Merge In Between Linked Lists](src/MergeLinkedLists/Solution.scala)
+[1669. Merge In Between Linked Lists](src/MergeLinkedLists/Solution.scala) \
+[2130. Maximum Twin Sum of a Linked List](src/TwinSum/Solution.scala)
 
 ## Hard
 
