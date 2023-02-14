@@ -104,6 +104,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
 [1791. Find Center of Star Graph](src/FindCenter/Solution.scala) \
 [1929. Concatenation of Array](src/GetConcatenation/Solution.scala) \
+[2000. Reverse Prefix of Word](src/ReversePrefix/Solution.scala) \
 [2129. Capitalize the Title](src/CapitalizeTitle/Solution.scala) \
 [2133. Check if Every Row and Column Contains All Numbers](src/CheckValid/Solution.scala) \
 [2148. Count Elements With Strictly Smaller and Greater Elements](src/CountElements/Solution.scala) \
