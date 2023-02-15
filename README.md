@@ -42,6 +42,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [226. Invert Binary Tree](src/InvertBT/Solution.scala) \
 [231. Power of Two](src/PowerOfTwo/Solution.scala) \
 [232. Implement Queue using Stacks](src/MyQueue/MyQueue.scala) \
+[234. Palindrome Linked List](src/IsPalindromeLinkedLsit/Solution.scala) \
 [242. Valid Anagram](src/IsAnagram/Solution.scala) \
 [268. Missing Number](src/MissingNumber/Solution.scala) \
 [292. Nim Game](src/NimGame/Solution.scala) \
