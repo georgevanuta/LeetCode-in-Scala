@@ -101,6 +101,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1266. Minimum Time Visiting All Points](src/ShortestPoint/Solution.scala) \
 [1290. Convert Binary Number in a Linked List to Integer](src/GetDecimalValue/Solution.scala) \
 [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](src/IsPrefixOfWord/Solution.scala) \
+[1523. Count Odd Numbers in an Interval Range](src/CountOdds/Solution.scala) \
 [1528. Shuffle String](src/ShuffleString/Solution.scala) \
 [1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
 [1791. Find Center of Star Graph](src/FindCenter/Solution.scala) \
