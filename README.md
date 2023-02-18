@@ -96,6 +96,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1022. Sum of Root To Leaf Binary Numbers](src/SumBT/Solution.scala) \
 [1051. Height Checker](src/HeightChecker/Solution.scala) \
 [1108. Defanging an IP Address](src/DefangIP/Solution.scala) \
+[1114. Print in Order](src/PrintOrder/Foo.java) \
 [1122. Relative Sort Array](src/RelativeSort/Solution.scala) \
 [1160. Find Words That Can Be Formed by Characters](src/GoodString/Solution.scala) \
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala) \
