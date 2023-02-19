@@ -184,6 +184,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1026. Maximum Difference Between Node and Ancestor](src/MaxAncestorDiff/Solution.scala) \
 [1038. Binary Search Tree to Greater Sum Tree](src/BSTtoGST/Solution.scala) \
 [1042. Flower Planting With No Adjacent](src/Garden/Solution.scala) \
+[1117. Building H2O](src/H2O/H2O.java) \
 [1155. Number of Dice Rolls With Target Sum](src/RollsToTarget/Solution.scala) \
 [1302. Deepest Leaves Sum](src/DeepestLeavesSum/Solution.scala) \
 [1305. All Elements in Two Binary Search Trees](src/GetAllElements/Solution.scala) \
