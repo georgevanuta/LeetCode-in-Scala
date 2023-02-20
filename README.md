@@ -33,6 +33,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [144. Binary Tree Preorder Traversal](src/PreorderTraversal/Solution.scala) \
 [145. Binary Tree Postorder Traversal](src/PostorderTraversal/Solution.scala) \
 [160. Intersection of Two Linked Lists](src/GetIntersectionNode/Solution.scala) \
+[165. Compare Version Numbers](src/CompareVersions/Solution.scala) \
 [169. Majority Element](src/MajorityElement/Solution.scala) \
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
 [195. Tenth Line](src/TenthLine/solution.sh) \
