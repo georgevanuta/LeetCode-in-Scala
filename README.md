@@ -33,7 +33,6 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [144. Binary Tree Preorder Traversal](src/PreorderTraversal/Solution.scala) \
 [145. Binary Tree Postorder Traversal](src/PostorderTraversal/Solution.scala) \
 [160. Intersection of Two Linked Lists](src/GetIntersectionNode/Solution.scala) \
-[165. Compare Version Numbers](src/CompareVersions/Solution.scala) \
 [169. Majority Element](src/MajorityElement/Solution.scala) \
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
 [195. Tenth Line](src/TenthLine/solution.sh) \
@@ -145,6 +144,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [129. Sum Root to Leaf Numbers](src/SumNumbers/Solution.scala) \
 [150. Evaluate Reverse Polish Notation](src/EvalRPN/Solution.scala) \
 [162. Find Peak Element](src/Peak/Solution.scala) \
+[165. Compare Version Numbers](src/CompareVersions/Solution.scala) \
 [173. Binary Search Tree Iterator](src/BSTIterator/BSTIterator.scala) \
 [199. Binary Tree Right Side View](src/RightSideBT/Solution.scala) \
 [223. Rectangle Area](src/ComputeArea/Solution.scala) \
