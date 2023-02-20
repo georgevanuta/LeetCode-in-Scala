@@ -146,6 +146,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [162. Find Peak Element](src/Peak/Solution.scala) \
 [173. Binary Search Tree Iterator](src/BSTIterator/BSTIterator.scala) \
 [199. Binary Tree Right Side View](src/RightSideBT/Solution.scala) \
+[223. Rectangle Area](src/ComputeArea/Solution.scala) \
 [229. Majority Element II](src/Majority/Solution.scala) \
 [230. Kth Smallest Element in a BST](src/KthSmallest/Solution.scala) \
 [236. Lowest Common Ancestor of a Binary Tree](src/LowestCommonAncestor/Solution.scala) \
