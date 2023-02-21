@@ -36,6 +36,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [169. Majority Element](src/MajorityElement/Solution.scala) \
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
 [195. Tenth Line](src/TenthLine/solution.sh) \
+[202. Happy Number](src/IsHappy/Solution.scala) \
 [203. Remove Linked List Elements](src/RemoveElements/Solution.scala) \
 [206. Reverse Linked List](src/ReverseList/Solution.scala) \
 [217. Contains Duplicate](src/ContainsDuplicates/Solution.scala) \
