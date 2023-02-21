@@ -109,6 +109,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1736. Latest Time by Replacing Hidden Digits](src/LatestTime/Solution.scala) \
 [1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
 [1791. Find Center of Star Graph](src/FindCenter/Solution.scala) \
+[1876. Substrings of Size Three with Distinct Characters](src/GoodSubstrings/Solution.scala) \
 [1929. Concatenation of Array](src/GetConcatenation/Solution.scala) \
 [2000. Reverse Prefix of Word](src/ReversePrefix/Solution.scala) \
 [2129. Capitalize the Title](src/CapitalizeTitle/Solution.scala) \
