@@ -14,5 +14,7 @@ object Solution {
 				)
 			}
 		}
+
+		recurse()
 	}
 }
