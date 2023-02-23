@@ -117,7 +117,6 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [2148. Count Elements With Strictly Smaller and Greater Elements](src/CountElements/Solution.scala) \
 [2180. Count Integers With Even Digit Sum](src/CountEven/Solution.scala) \
 [2220. Minimum Bit Flips to Convert Number](src/MinBitFlips/Solution.scala) \
-[2221. Find Triangular Sum of an Array](src/TriangularSum/Solution.scala) \
 [2236. Root Equals Sum of Children](src/CheckTree/Solution.scala) \
 [2239. Find Closest Number to Zero](src/FindClosestNumber/Solution.scala) \
 [2248. Intersection of Multiple Arrays](src/IntersectionMatrix/Solution.scala) \
@@ -203,7 +202,8 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [1448. Count Good Nodes in Binary Tree](src/GoodNodes/Solution.scala) \
 [1669. Merge In Between Linked Lists](src/MergeLinkedLists/Solution.scala) \
 [2095. Delete the Middle Node of a Linked List](src/DeleteMiddle/Solution.scala) \
-[2130. Maximum Twin Sum of a Linked List](src/TwinSum/Solution.scala)
+[2130. Maximum Twin Sum of a Linked List](src/TwinSum/Solution.scala) \
+[2221. Find Triangular Sum of an Array](src/TriangularSum/Solution.scala)
 
 ## Hard
 
