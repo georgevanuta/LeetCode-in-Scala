@@ -117,6 +117,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [2148. Count Elements With Strictly Smaller and Greater Elements](src/CountElements/Solution.scala) \
 [2180. Count Integers With Even Digit Sum](src/CountEven/Solution.scala) \
 [2220. Minimum Bit Flips to Convert Number](src/MinBitFlips/Solution.scala) \
+[2221. Find Triangular Sum of an Array](src/TriangularSum/Solution.scala) \
 [2236. Root Equals Sum of Children](src/CheckTree/Solution.scala) \
 [2239. Find Closest Number to Zero](src/FindClosestNumber/Solution.scala) \
 [2248. Intersection of Multiple Arrays](src/IntersectionMatrix/Solution.scala) \
