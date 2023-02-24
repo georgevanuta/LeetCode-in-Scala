@@ -184,6 +184,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [796. Rotate String](src/RotateShift/Solution.scala) \
 [814. Binary Tree Pruning](src/PruneTree/Solution.scala) \
 [849. Maximize Distance to Closest Person](src/MaxSeatDist/Solution.scala) \
+[900. RLE Iterator](src/RLEIterator/RLEIterator.scala) \
 [937. Reorder Data in Log Files](src/Logs/Solution.scala) \
 [957. Prison Cells After N Days](src/Prison/Solution.scala) \
 [973. K Closest Points to Origin](src/ClosestK/Solution.scala) \
