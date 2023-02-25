@@ -5,7 +5,7 @@ import java.io.{ File, PrintWriter }
 
 object Main {
 	private final val README_PATH: String =
-		"/mnt/e/Programming/LeetCode/README.md"
+		"../../README.md"
 
 
 	private final val DIFFICULTIES: Set[String] =
@@ -214,9 +214,8 @@ object Main {
 			)
 			.mkString("\n")
 
-		val README_RELATIVE_PATH: String = "../../README.md"
 
-		new PrintWriter(README_RELATIVE_PATH) {
+		new PrintWriter(README_PATH) {
 			try write(UPDATED_README)
 			finally close()
 		}
@@ -228,7 +227,7 @@ object Main {
 	def pushToGit(number: Int): Unit = {
 		import sys.process._
 
-		"git add ../../README.md".!!
+		f"git add ${README_PATH}".!!
 		f"git add ${System.getProperty("user.dir")}".!!
 		f"git commit -m \"added $number\"".!!
 		"git push -f origin main".!!
@@ -265,6 +264,7 @@ object Main {
 		)
 
 		updateREADME(PROBLEM_TITLE, PROBLEM_NUMBER, DIFFICULTY)
+
 		pushToGit(PROBLEM_NUMBER)
 	}
 
