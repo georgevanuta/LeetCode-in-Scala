@@ -3,6 +3,24 @@
 My solutions for **LeetCode** exercises written in **Scala**. \
 If you're curious about a particular solution, just `Ctrl-F` the exact title of the exercise.
 
+## How to use the push/update script
+
+I've made a simple **scala** script that updates this
+**README.md** by adding a solution and then pushing the changes to **github**.
+Also, if you want to use it, run the following command in the solution directory:
+
+```bash
+scala-cli ../../leet.scala -- "<PROBLEM_NUMBER>. <PROBLEM_TITLE>" "<DIFFICULTY>"
+```
+
+For example, if you wanted to add the **1. Two sum problem**:
+
+```bash
+scala-cli ../../leet.scala -- "1. Two Sum" E
+```
+
+You can find the source code [here](leet.scala).
+
 ## Easy
 
 [1. Two Sum](src/TwoSum/Solution.scala) \
@@ -21,6 +39,7 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 [83. Remove Duplicates from Sorted List](src/DeleteDuplicates/Solution.scala) \
 [94. Binary Tree Inorder Traversal](src/InorderTraversal/Solution.scala) \
 [98. Validate Binary Search Tree](src/IsValidBST/Solution.scala) \
+[100. AAAA](src/EvaluateTree/Solution.scala) \
 [101. Symmetric Tree](src/IsSymmetric/Solution.scala) \
 [102. Binary Tree Level Order Traversal](src/LevelOrder/Solution.scala) \
 [104. Maximum Depth of Binary Tree](src/MaxDepth/Solution.scala) \
