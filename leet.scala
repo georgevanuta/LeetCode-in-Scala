@@ -239,7 +239,7 @@ object Main {
 	def main(args: Array[String]): Unit = {
 		exitIf(
 			args.length != 2,
-			"[USAGE]: scala-cli -- leet.scala <PROBLEM_TITLE> <E|M|H>"
+			"[USAGE]: scala-cli ../../leet.scala -- \"<PROBLEM_NUMBER>. <PROBLEM_TITLE>\" \"<DIFFICULTY>\""
 		)
 
 		val PROBLEM_TITLE: String = args(0)
