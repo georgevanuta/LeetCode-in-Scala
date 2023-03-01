@@ -143,7 +143,6 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [2236. Root Equals Sum of Children](src/CheckTree/Solution.scala) \
 [2239. Find Closest Number to Zero](src/FindClosestNumber/Solution.scala) \
 [2248. Intersection of Multiple Arrays](src/IntersectionMatrix/Solution.scala) \
-[2283. Check if Number Has Equal Digit Count and Digit Value](src/IncrFreqSort/Solution.scala) \
 [2331. Evaluate Boolean Binary Tree](src/EvaluateTree/Solution.scala) \
 [2481. Minimum Cuts to Divide a Circle](src/NumberOfCuts/Solution.scala) \
 [2490. Circular Sentence](src/IsCircularSentence/Solution.scala) \
