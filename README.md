@@ -126,6 +126,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [1523. Count Odd Numbers in an Interval Range](src/CountOdds/Solution.scala) \
 [1528. Shuffle String](src/ShuffleString/Solution.scala) \
 [1572. Matrix Diagonal Sum](src/DiagonalSum/Solution.scala) \
+[1636. Sort Array by Increasing Frequency](src/IncrFreqSort/Solution.scala) \
 [1678. Goal Parser Interpretation](src/GoalParser/Solution.scala) \
 [1736. Latest Time by Replacing Hidden Digits](src/LatestTime/Solution.scala) \
 [1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
