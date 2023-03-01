@@ -139,6 +139,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [2148. Count Elements With Strictly Smaller and Greater Elements](src/CountElements/Solution.scala) \
 [2180. Count Integers With Even Digit Sum](src/CountEven/Solution.scala) \
 [2220. Minimum Bit Flips to Convert Number](src/MinBitFlips/Solution.scala) \
+[2235. Add Two Integers](src/ActualTwoSum/Solution.scala) \
 [2236. Root Equals Sum of Children](src/CheckTree/Solution.scala) \
 [2239. Find Closest Number to Zero](src/FindClosestNumber/Solution.scala) \
 [2248. Intersection of Multiple Arrays](src/IntersectionMatrix/Solution.scala) \
