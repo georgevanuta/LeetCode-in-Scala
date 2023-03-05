@@ -220,6 +220,8 @@ object Main {
 			finally close()
 		}
 
+		println("[UPDATE]: README locally updated")
+
 		source.close()
 	}
 
