@@ -118,6 +118,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [993. Cousins in Binary Tree](src/IsCousins/Solution.scala) \
 [1002. Find Common Characters](src/CommonLetters/Solution.scala) \
 [1022. Sum of Root To Leaf Binary Numbers](src/SumBT/Solution.scala) \
+[1050. Actors and Directors Who Cooperated At Least Three Times](src/ActorsDirectors/solution.sql) \
 [1051. Height Checker](src/HeightChecker/Solution.scala) \
 [1108. Defanging an IP Address](src/DefangIP/Solution.scala) \
 [1114. Print in Order](src/PrintOrder/Foo.java) \
