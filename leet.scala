@@ -232,7 +232,7 @@ object Main {
 		f"git add ${README_PATH}".!!
 		f"git add ${System.getProperty("user.dir")}".!!
 		f"git commit -m \"added $number\"".!!
-		"git push -f origin main".!!
+		"git push -q -f origin main".!!
 
 		println("[UPDATE]: Solution pushed")
 	}
