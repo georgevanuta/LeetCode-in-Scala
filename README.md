@@ -127,6 +127,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [1290. Convert Binary Number in a Linked List to Integer](src/GetDecimalValue/Solution.scala) \
 [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](src/IsPrefixOfWord/Solution.scala) \
 [1523. Count Odd Numbers in an Interval Range](src/CountOdds/Solution.scala) \
+[1527. Patients With a Condition](src/PatientsDiabetes/solution.sql) \
 [1528. Shuffle String](src/ShuffleString/Solution.scala) \
 [1572. Matrix Diagonal Sum](src/DiagonalSum/Solution.scala) \
 [1636. Sort Array by Increasing Frequency](src/IncrFreqSort/Solution.scala) \
