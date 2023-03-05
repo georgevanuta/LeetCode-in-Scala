@@ -133,6 +133,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [1678. Goal Parser Interpretation](src/GoalParser/Solution.scala) \
 [1736. Latest Time by Replacing Hidden Digits](src/LatestTime/Solution.scala) \
 [1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
+[1757. Recyclable and Low Fat Products](src/GoodProducts/solution.sql) \
 [1791. Find Center of Star Graph](src/FindCenter/Solution.scala) \
 [1876. Substrings of Size Three with Distinct Characters](src/GoodSubstrings/Solution.scala) \
 [1929. Concatenation of Array](src/GetConcatenation/Solution.scala) \
