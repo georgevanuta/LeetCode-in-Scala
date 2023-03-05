@@ -129,6 +129,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala) \
 [1266. Minimum Time Visiting All Points](src/ShortestPoint/Solution.scala) \
 [1290. Convert Binary Number in a Linked List to Integer](src/GetDecimalValue/Solution.scala) \
+[1407. Top Travellers](src/TopTravellers/solution.sql) \
 [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](src/IsPrefixOfWord/Solution.scala) \
 [1523. Count Odd Numbers in an Interval Range](src/CountOdds/Solution.scala) \
 [1527. Patients With a Condition](src/PatientsDiabetes/solution.sql) \
