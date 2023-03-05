@@ -133,6 +133,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [1636. Sort Array by Increasing Frequency](src/IncrFreqSort/Solution.scala) \
 [1667. Fix Names in a Table](src/FixNames/solution.sql) \
 [1678. Goal Parser Interpretation](src/GoalParser/Solution.scala) \
+[1729. Find Followers Count](src/FollowersCount/solution.sql) \
 [1736. Latest Time by Replacing Hidden Digits](src/LatestTime/Solution.scala) \
 [1748. Sum of Unique Elements](src/SumOfUnique/Solution.scala) \
 [1757. Recyclable and Low Fat Products](src/GoodProducts/solution.sql) \
