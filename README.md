@@ -94,6 +94,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [595. Big Countries](src/BigCountries/solution.sql) \
 [596. Classes More Than 5 Students](src/ClassesMoreThanFive/solution.sql) \
 [617. Merge Two Binary Trees](src/MergeTrees/Solution.scala) \
+[620. Not Boring Movies](src/NotBoringMovies/solution.sql) \
 [627. Swap Salary](src/SwapSalary/solution.sql) \
 [645. Set Mismatch](src/FindErrorNums/Solution.scala) \
 [653. Two Sum IV - Input is a BST](src/TwoSumBT/Solution.scala) \
