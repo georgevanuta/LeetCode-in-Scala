@@ -1,6 +1,4 @@
 -- https://leetcode.com/problems/duplicate-emails/description/
-
-
 SELECT email
 FROM
 (
