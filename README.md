@@ -121,6 +121,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [1108. Defanging an IP Address](src/DefangIP/Solution.scala) \
 [1114. Print in Order](src/PrintOrder/Foo.java) \
 [1122. Relative Sort Array](src/RelativeSort/Solution.scala) \
+[1148. Article Views I](src/ArticleViewsI/solution.sql) \
 [1160. Find Words That Can Be Formed by Characters](src/GoodString/Solution.scala) \
 [1221. Split a String in Balanced Strings](src/BalancedStrings/Solution.scala) \
 [1266. Minimum Time Visiting All Points](src/ShortestPoint/Solution.scala) \
