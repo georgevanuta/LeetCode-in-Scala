@@ -90,6 +90,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [559. Maximum Depth of N-ary Tree](src/NaryMaxDepth/Solution.scala) \
 [575. Distribute Candies](src/Candies/Solution.scala) \
 [589. N-ary Tree Preorder Traversal](src/NaryTreePreorderTraversal/Solution.scala) \
+[595. Big Countries](src/BigCountries/solution.sql) \
 [596. Classes More Than 5 Students](src/ClassesMoreThanFive/solution.sql) \
 [617. Merge Two Binary Trees](src/MergeTrees/Solution.scala) \
 [645. Set Mismatch](src/FindErrorNums/Solution.scala) \
