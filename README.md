@@ -139,6 +139,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [1757. Recyclable and Low Fat Products](src/GoodProducts/solution.sql) \
 [1791. Find Center of Star Graph](src/FindCenter/Solution.scala) \
 [1876. Substrings of Size Three with Distinct Characters](src/GoodSubstrings/Solution.scala) \
+[1890. The Latest Login in 2020](src/LatestLogin/solution.sql) \
 [1929. Concatenation of Array](src/GetConcatenation/Solution.scala) \
 [2000. Reverse Prefix of Word](src/ReversePrefix/Solution.scala) \
 [2129. Capitalize the Title](src/CapitalizeTitle/Solution.scala) \
