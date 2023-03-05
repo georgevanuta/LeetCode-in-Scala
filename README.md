@@ -52,6 +52,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [145. Binary Tree Postorder Traversal](src/PostorderTraversal/Solution.scala) \
 [160. Intersection of Two Linked Lists](src/GetIntersectionNode/Solution.scala) \
 [169. Majority Element](src/MajorityElement/Solution.scala) \
+[182. Duplicate Emails](src/DupEmail/solution.sql) \
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
 [195. Tenth Line](src/TenthLine/solution.sh) \
 [202. Happy Number](src/IsHappy/Solution.scala) \
