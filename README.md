@@ -189,6 +189,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [162. Find Peak Element](src/Peak/Solution.scala) \
 [165. Compare Version Numbers](src/CompareVersions/Solution.scala) \
 [173. Binary Search Tree Iterator](src/BSTIterator/BSTIterator.scala) \
+[176. Second Highest Salary](src/SecondHighestSalary/solution.sql) \
 [199. Binary Tree Right Side View](src/RightSideBT/Solution.scala) \
 [200. Number of Islands](src/NrIslands/Solution.scala) \
 [223. Rectangle Area](src/ComputeArea/Solution.scala) \
