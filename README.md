@@ -3,6 +3,11 @@
 My solutions for **LeetCode** exercises written in **Scala**. \
 If you're curious about a particular solution, just `Ctrl-F` the exact title of the exercise.
 
+## Note
+
+This repo also contains some solutions written in **Java** \
+(the **multithreaded** ones because they can't be solved in **Scala**) and some **sql** queries.
+
 ## How to use the push/update script
 
 You can find the source code for the script [here](leet.scala).
