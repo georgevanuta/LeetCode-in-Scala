@@ -53,6 +53,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [160. Intersection of Two Linked Lists](src/GetIntersectionNode/Solution.scala) \
 [169. Majority Element](src/MajorityElement/Solution.scala) \
 [175. Combine Two Tables](src/CombineTables/solution.sql) \
+[181. Employees Earning More Than Their Managers](src/EmployeesMoreThanManagers/solution.sql) \
 [182. Duplicate Emails](src/DupEmail/solution.sql) \
 [183. Customers Who Never Order](src/CustomersWhoNeverOrder/solution.sql) \
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
