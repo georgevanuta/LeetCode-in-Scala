@@ -91,6 +91,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [551. Student Attendance Record I](src/CheckRecord/Solution.scala) \
 [559. Maximum Depth of N-ary Tree](src/NaryMaxDepth/Solution.scala) \
 [575. Distribute Candies](src/Candies/Solution.scala) \
+[586. Customer Placing the Largest Number of Orders](src/CustomerMostOrders/solution.sql) \
 [589. N-ary Tree Preorder Traversal](src/NaryTreePreorderTraversal/Solution.scala) \
 [595. Big Countries](src/BigCountries/solution.sql) \
 [596. Classes More Than 5 Students](src/ClassesMoreThanFive/solution.sql) \
