@@ -87,6 +87,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [501. Find Mode in Binary Search Tree](src/FindMode/Solution.scala) \
 [504. Base 7](src/ConvertToBase7/Solution.scala) \
 [509. Fibonacci Number](src/Fibo/Solution.scala) \
+[511. Game Play Analysis I](src/GamePlayAnalysisI/solution.sql) \
 [530. Minimum Absolute Difference in BST](src/GetMinimumDifference/Solution.scala) \
 [551. Student Attendance Record I](src/CheckRecord/Solution.scala) \
 [559. Maximum Depth of N-ary Tree](src/NaryMaxDepth/Solution.scala) \
