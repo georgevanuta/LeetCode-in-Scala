@@ -79,6 +79,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [344. Reverse String](src/ReverseString/Solution.scala) \
 [345. Reverse Vowels of a String](src/ReverseVowel/Solution.scala) \
 [349. Intersection of Two Arrays](src/Intersection/Solution.scala) \
+[350. Intersection of Two Arrays II](src/IntersectionII/Solution.scala) \
 [383. Ransom Note](src/RansomNote/Solution.scala) \
 [387. First Unique Character in a String](src/FirstUniqueChar/Solution.scala) \
 [389. Find the Difference](src/FindTheDifference/Solution.scala) \
