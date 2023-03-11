@@ -6,7 +6,8 @@ If you're curious about a particular solution, just `Ctrl-F` the exact title of 
 ## Note
 
 This repo also contains some solutions written in **Java** \
-(the **multithreaded** ones because they can't be solved in **Scala**) and some **sql** queries.
+(the **multithreaded** ones because they can't be solved in **Scala**), \ 
+some **sqlplus** queries, and some **c++** code.
 
 ## How to use the push/update script
 
