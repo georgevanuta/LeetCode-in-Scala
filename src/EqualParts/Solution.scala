@@ -3,6 +3,8 @@ package EqualParts
 import scala.annotation.tailrec
 import scala.collection.immutable.HashMap
 
+
+// https://leetcode.com/problems/divide-array-into-equal-pairs/description/
 object Solution {
 	def divideArray(nums: Array[Int]): Boolean = {
 		@tailrec
