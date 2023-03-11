@@ -27,7 +27,7 @@ object Main {
 
 	private def exitIf(cond: Boolean, msg: String): Unit = {
 		if (cond) {
-			println(msg)
+			sys.error(msg)
 			sys.exit(1)
 		}
 	}
