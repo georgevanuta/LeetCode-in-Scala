@@ -62,6 +62,7 @@ scala-cli ../../leet.scala -- "1. Two Sum" E
 [182. Duplicate Emails](src/DupEmail/solution.sql) \
 [183. Customers Who Never Order](src/CustomersWhoNeverOrder/solution.sql) \
 [191. Number of 1 Bits](src/Hamming/Solution.scala) \
+[193. Valid Phone Numbers](src/ValidPhoneNumbers/solution.sh) \
 [195. Tenth Line](src/TenthLine/solution.sh) \
 [202. Happy Number](src/IsHappy/Solution.scala) \
 [203. Remove Linked List Elements](src/RemoveElements/Solution.scala) \
